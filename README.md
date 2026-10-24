@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssbb2026&label=Profile%20views&color=0e75b6&style=flat" alt="ssbb2026" /> </p>
 
-<h3 align="left">Connect with me:</h3 "www.linkedin.com/in/susmi-sahadev-b96623354">
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
