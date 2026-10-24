@@ -1,14 +1,51 @@
-<h1 align="center">Hi 👋, I'm Susmi Sahadev</h1>
-<h3 align="center">A passionate developer</h3>
+<div align="center">
+<h1>Hi 👋, I'm Susmi Sahadev</h1>
+<h3>Developer | Python | Data Science | Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssbb2026&label=Profile%20views&color=0e75b6&style=flat" alt="ssbb2026" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<p>
+<a href="https://github.com/ssbb2026">
+<img src="https://komarev.com/ghpvc/?username=ssbb2026&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+<a href="www.linkedin.com/in/susmi-sahadev-b96623354" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ssbb2026">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+</div>
+
+👩‍💻 About Me
+👋 Hi, I'm Susmi Sahadev, a passionate developer.
+💻 Interested in Python programming and software development.
+📊 Exploring data analysis, visualization, and machine learning.
+☁️ Learning and working with cloud and database technologies.
+🌱 Continuously improving my technical skills and exploring new technologies.
+🎯 Focused on learning, problem-solving, and building meaningful projects.
+🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
+</a
